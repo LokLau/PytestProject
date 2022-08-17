@@ -1,0 +1,15 @@
+2022-08-16 18:12:27,703 - basePage.py:[62] - [INFO] - Action - Move to new_cars_XPATH
+2022-08-16 18:12:30,906 - basePage.py:[24] - [INFO] - Click find_new_car_XPATH
+2022-08-16 18:12:31,596 - basePage.py:[24] - [INFO] - Click toyota_XPATH
+2022-08-16 18:15:09,232 - basePage.py:[62] - [INFO] - Action - Move to new_cars_XPATH
+2022-08-16 18:15:12,456 - basePage.py:[24] - [INFO] - Click find_new_car_XPATH
+2022-08-16 18:15:13,067 - basePage.py:[24] - [INFO] - Click toyota_XPATH
+2022-08-16 18:15:26,228 - basePage.py:[62] - [INFO] - Action - Move to new_cars_XPATH
+2022-08-16 18:15:29,408 - basePage.py:[24] - [INFO] - Click find_new_car_XPATH
+2022-08-16 18:15:30,590 - basePage.py:[24] - [INFO] - Click bmw_XPATH
+2022-08-16 18:15:44,713 - basePage.py:[62] - [INFO] - Action - Move to new_cars_XPATH
+2022-08-16 18:15:47,840 - basePage.py:[24] - [INFO] - Click find_new_car_XPATH
+2022-08-16 18:15:48,354 - basePage.py:[24] - [INFO] - Click toyota_XPATH
+2022-08-16 18:16:02,704 - basePage.py:[62] - [INFO] - Action - Move to new_cars_XPATH
+2022-08-16 18:16:05,920 - basePage.py:[24] - [INFO] - Click find_new_car_XPATH
+2022-08-16 18:16:06,849 - basePage.py:[24] - [INFO] - Click bmw_XPATH
