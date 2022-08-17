@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Aug 16 18:15:44 AEST 2022","Tue Aug 16 18:15:51 AEST 2022","7245","","test_CarHomePage","Test_CarHomePage","","","test_navigate_to_new_car[edge-brand0]",""
-"passed","Tue Aug 16 18:15:25 AEST 2022","Tue Aug 16 18:15:34 AEST 2022","8559","","test_CarHomePage","Test_CarHomePage","","","test_navigate_to_new_car[chrome-brand1]",""
-"passed","Tue Aug 16 18:16:02 AEST 2022","Tue Aug 16 18:16:10 AEST 2022","7840","","test_CarHomePage","Test_CarHomePage","","","test_navigate_to_new_car[edge-brand1]",""
-"passed","Tue Aug 16 18:15:08 AEST 2022","Tue Aug 16 18:15:16 AEST 2022","7364","","test_CarHomePage","Test_CarHomePage","","","test_navigate_to_new_car[chrome-brand0]",""
