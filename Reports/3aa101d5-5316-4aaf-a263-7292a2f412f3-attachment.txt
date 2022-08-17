@@ -1,3 +1,0 @@
-INFO     Pages.basePage:basePage.py:62 Action - Move to new_cars_XPATH
-INFO     Pages.basePage:basePage.py:24 Click find_new_car_XPATH
-INFO     Pages.basePage:basePage.py:24 Click toyota_XPATH

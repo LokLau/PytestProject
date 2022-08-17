@@ -1,1 +1,0 @@
-INFO     Pages.basePage:basePage.py:62 Action - Move to new_cars_XPATH
